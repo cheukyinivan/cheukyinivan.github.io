@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
+
+title: "Universes in Rocks"
+
 nav:
   - title: "Home"
     url: "/"

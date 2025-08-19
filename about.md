@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+css: style.css
 ---
 
 # About Me

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+css: style.css
 ---
 
 # Research

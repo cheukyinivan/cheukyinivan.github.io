@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 nav:
-	- title: "Home"
-		url: "/"
-	- title: "About"
-		url: "/about"
-	- title: "Research"
-		url: "/research"
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Research"
+    url: "/research"

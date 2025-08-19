@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Home
+css: style.css
+
 ---
 
-# Welcome to My Research Website
+# ==There is a universe in every piece of rock==
 
-This is the homepage. Use the menu to navigate to other sections.
+Welcome to my page where I contemplate about geology, nature and the universe. \
+

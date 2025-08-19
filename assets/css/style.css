@@ -1,4 +1,4 @@
-/* Cayman theme inspired custom styles */
+/* ustom styles */
 body {
   font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
   background: #f5f5f5;
@@ -6,7 +6,7 @@ body {
   color: #333;
 }
 .page-header {
-  background: #007acc;
+  background: #000d49;
   color: #fff;
   padding: 2rem 0 1rem 0;
   text-align: center;

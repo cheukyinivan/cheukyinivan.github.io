@@ -1,9 +1,11 @@
 theme: jekyll-theme-cayman
 
-title: "Universes in Rocks"
+title: "Universe in a Grain of Sand"
+
+description: "Ivan Yip"
 
 nav:
-  - title: "Home"
+  - title: "Ivan Yip"
     url: "/"
   - title: "About"
     url: "/about"

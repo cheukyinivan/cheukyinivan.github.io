@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Home
+title: Ivan Yip
 css: style.css
 
 ---
 
-# ==There is a universe in every piece of rock==
+# There is a universe in every grain of rock
 
-Welcome to my page where I contemplate about geology, nature and the universe. \
+Welcome to my page, where I share thoughts and reflections on geology, nature, and the universe.
 

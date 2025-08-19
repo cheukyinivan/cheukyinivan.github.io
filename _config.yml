@@ -6,3 +6,7 @@ nav:
     url: "/about"
   - title: "Research"
     url: "/research"
+  - title: "Gallery"
+    url: "/gallery"
+  - title: "Contact"
+    url: "/contact"

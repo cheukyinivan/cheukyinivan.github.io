@@ -1,0 +1,17 @@
+theme: jekyll-theme-cayman
+
+title: "Universe in a Grain of Sand"
+
+description: "Ivan Yip"
+
+nav:
+  - title: "Ivan Yip"
+    url: "/"
+  - title: "About"
+    url: "/about"
+  - title: "Research"
+    url: "/research"
+  - title: "Gallery"
+    url: "/gallery"
+  - title: "Contact"
+    url: "/contact"
